@@ -1,4 +1,4 @@
-# Simple demo for understanding redux thunk library
+# Simple demo using Redux Thunk Library
 
 ## What the application do?
 It fetches `breaking bad` quotes.
